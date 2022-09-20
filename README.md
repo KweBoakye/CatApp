@@ -10,7 +10,7 @@ Libraries Used
 - Jetpack Compose
 - Viewmodel
 
-Architecture
+
 
  The domain layer logic for this app was minimal so I chose to use functions/extensions whereas in a larger, more complex app I would use classes and Interfaces. Generally I like to use very few libraries and platform specific code in my business logic to make them easier to test with unit tests. I also like to break my logic down into smaller functions to allow each part to be tested then use interfaces to make it easier only use the needed overall function in other classes/places.  
  
