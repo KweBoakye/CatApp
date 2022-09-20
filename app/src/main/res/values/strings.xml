@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CatApp</string>
+    <string name="filter_mime_type">Filter Type</string>
+</resources>
